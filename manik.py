@@ -2,5 +2,4 @@ import pandas as pd
 
 df = pd.read_csv(path)
 
-
-blah blah blah
+arr = numpy.arr([1,2,3])
