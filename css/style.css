@@ -1,0 +1,13 @@
+/* --- Global Styles & Variables --- */
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #ffffff;
+    --text-color: #343a40;
+    --heading-color: #212529;
+    --border-color: #dee2e6;
+    --card-bg-color: #f8f9fa;
+    --font-family: 'Times New Roman', Times, serif; /* Changed this line */
+    --container-width: 960px;
+    --spacing-unit: 1rem;
+}
